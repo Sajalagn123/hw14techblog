@@ -2,6 +2,15 @@ header, .project:not(:last-child) {
   border-bottom: 1px solid #ccc;
 }
 
+header {
+  background-color: rgb(209, 242, 231);
+  color: rgb(2, 2, 147);
+}
+
+body {
+  background-color: blanchedalmond;
+}
+
 .no-button {
   background: none;
   border: none;
